@@ -1,3 +1,5 @@
+#  here's a starting point template i looked up. -doug
+
 import sys, csv, sqlite3
 
 def main():
